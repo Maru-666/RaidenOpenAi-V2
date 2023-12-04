@@ -1,10 +1,8 @@
 # RaidenOpenAi-V2
-*Pengguna Termux*
+Bot ini di kembangkan oleh (https://autoresbot.com/), saya hanya menggunakan dan merubah yang ada di dalam sc ini, seperti nomor own dan lain lain
 
-pkg update && pkg upgrade 
-pkg install nodejs 
-pkg instal git 
-termux-setup-storage
-cd /sdcard/RaidenOpenAi-V2 
-npm install
-npm start
+
+© autoresbot (pemilik) 
+© adiwajhsing (penyedia Bailey's) 
+© All Creator Bot Whatsapp
+© RaiDen (Saya Sendiri) 
